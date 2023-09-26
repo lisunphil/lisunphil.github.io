@@ -10,4 +10,18 @@ redirect_from:
 
 I am currently a first-year PhD student at the Institute of Data Science at The University of Hong Kong(HKU IDS). My current research interest is embodied AI, including 3D representation, robotic learning, and 3D vision.
 
-Lorem ipsum,
+<br />
+
+Education
+======
+* B.S. in Computer Science, Zhejiang University, 2023
+
+<br />
+
+Publications
+=======
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
