@@ -11,8 +11,7 @@ code: "https://github.com/River-Zhang/GTA"
 venue: 'NeurIPS 2023'
 page: 'https://river-zhang.github.io/GTA-projectpage/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
----
+
 title: "HyPoGen: Optimization-Biased Hypernetworks for Generalizable Policy Generation"
 author: "Hanxiang Ren*, <b>Li Sun*</b>, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, Difan Zou, Youyi Zheng, Yanchao Yang"
 collection: publications
