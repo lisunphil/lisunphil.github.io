@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 
-* **Head Teaching Assistant**, DATA8010 & ELEC8111, HKU
+* **Head Teaching Assistant**, [DATA8010 & ELEC8111](https://embodied-ai-hku.github.io/DATA8010/), HKU
 * **Teaching Assistant**, IDSS2401, IDSS2402, IDSS2501, HKU
 
 ## Academic Service
