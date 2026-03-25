@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Li Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD candidate at the Institute of Data Science at The University of Hong Kong(HKU IDS). My current research interest is embodied AI, including 3D representation, robotic learning, and 3D vision.
+I am currently a third-year PhD candidate at the Institute of Data Science at The University of Hong Kong(HKU IDS). My current research interest is embodied AI, including representation learning, robotic manipulation, 3D vision, and world action models.
 
 <br />
 
 Education
 ======
-* B.S. in Computer Science, Zhejiang University, 2023
+* B.S. in Computer Science and Technology, Zhejiang University, 2019~2023
+* PhD in IDS, The University of Hong Kong, 2023~now
 
 <br />
 
