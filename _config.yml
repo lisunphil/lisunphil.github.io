@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Li Sun"
 title_separator          : "-"
 name                     : &name "Li Sun"
-description              : &description "PhD student at The University of Hong Kong"
+description              : &description "PhD candidate at The University of Hong Kong"
 url                      : https://lisunphil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lisunphil/lisunphil.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Li Sun"
-  avatar           : "sl.jpeg"
-  bio              : "PhD Student at The University of Hong Kong"
+  avatar           : "sl2026.jpg"
+  bio              : "PhD Candidate at The University of Hong Kong"
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
