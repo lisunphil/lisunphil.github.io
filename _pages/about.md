@@ -99,6 +99,14 @@ redirect_from:
           <div class="publication-body">
             <h3>{{ publication.title }}</h3>
             <p class="publication-authors">{{ publication.author }}</p>
+            {% if publication.page or publication.pdf or publication.code or publication.review %}
+              <div class="publication-links" aria-label="Links for {{ publication.title }}">
+                {% if publication.page %}<a href="{{ publication.page }}">Project</a>{% endif %}
+                {% if publication.pdf %}<a href="{{ publication.pdf }}">Paper</a>{% endif %}
+                {% if publication.code %}<a href="{{ publication.code }}">Code</a>{% endif %}
+                {% if publication.review %}<a href="{{ publication.review }}">OpenReview</a>{% endif %}
+              </div>
+            {% endif %}
           </div>
         </article>
       {% endfor %}

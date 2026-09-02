@@ -382,6 +382,29 @@
   line-height: 1.58;
 }
 
+.publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin-top: 0.55rem;
+}
+
+.publication-links a {
+  color: var(--home-blue);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publication-links a::after {
+  margin-left: 0.2rem;
+  content: "↗";
+}
+
+.publication-links a:hover {
+  text-decoration: underline;
+}
+
 .service-panel {
   max-width: 760px;
 }
