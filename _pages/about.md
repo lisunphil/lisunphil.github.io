@@ -14,17 +14,20 @@ redirect_from:
     <div class="hero-copy">
       <p class="eyebrow">About</p>
       <h1 id="hero-title">Li Sun</h1>
-      <p class="hero-role">PhD Candidate · Institute of Data Science · The University of Hong Kong</p>
       <p class="hero-about">
-        I am an HKU Presidential PhD Scholar, advised by Prof. Yanchao Yang and
-        Prof. Yi Ma. Previously, I received my B.S. in Computer Science and
-        Technology from Zhejiang University in 2023.
+        I am a PhD candidate at the Institute of Data Science, The University
+        of Hong Kong (HKU IDS) and an HKU Presidential PhD Scholar (HKUPS). I am
+        advised by Prof. Yanchao Yang and Prof. Yi Ma. Prior to joining HKU, I
+        received my B.S. in Computer Science and Technology from Zhejiang
+        University in 2023.
       </p>
       <p class="hero-intro">
-        My research centers on building better representations for robotic
-        manipulation and using large language models to construct embodied
+        My research focuses on building better representations for robotic
+        manipulation and on using large language models to construct embodied
         agents that integrate perception, reasoning, and policy models for
-        robust physical interaction.
+        robust physical interaction. I am particularly interested in
+        representation learning, vision-language-action models, dexterous
+        manipulation, and agentic robotics.
       </p>
       <div class="hero-actions" role="group" aria-label="Contact and profiles">
         <a class="home-button home-button-primary" href="mailto:{{ site.author.email }}">Email</a>
