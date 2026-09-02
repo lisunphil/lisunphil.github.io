@@ -12,4 +12,4 @@ author_profile: true
 
 ## Academic Service
 
-* **Reviewer**, CVPR 2025, ICCV 2025, AAAI 2025, CoRL 2025, ICLR 2026
+* **Reviewer**, CVPR 2025, ICCV 2025, AAAI 2025, CoRL 2025, ICLR 2026, NeurIPS 2026, CoRL 2026

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Li Sun"
 title_separator          : "-"
 name                     : &name "Li Sun"
-description              : &description "PhD candidate at The University of Hong Kong"
+description              : &description "Li Sun is a PhD candidate at the Institute of Data Science, The University of Hong Kong. His research focuses on embodied AI, robot learning, and 3D vision."
 url                      : https://lisunphil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lisunphil/lisunphil.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li Sun"
   avatar           : "sl2026.jpg"
-  bio              : "PhD Candidate at The University of Hong Kong"
+  bio              : "PhD Candidate, Institute of Data Science, The University of Hong Kong."
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
