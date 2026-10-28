@@ -38,7 +38,7 @@ redirect_from:
 
     <aside class="hero-profile" aria-label="Profile">
       <div class="portrait-frame">
-        <img src="{{ '/images/sl2026-homepage.jpg' | relative_url }}" alt="Portrait of Li Sun">
+        <img src="{{ '/images/li-sun-portrait-20261028.jpg' | relative_url }}" alt="Portrait of Li Sun">
       </div>
     </aside>
   </div>
