@@ -131,7 +131,7 @@ redirect_from:
         </li>
         <li>
           <strong>Reviewer</strong>
-          <span>CVPR 2025, ICCV 2025, AAAI 2025, CoRL 2025, ICLR 2026, NeurIPS 2026, CoRL 2026</span>
+          <span>CVPR 2025, ICCV 2025, CoRL 2025, ICLR 2026, NeurIPS 2026 (<b>Top Reviewer</b>), CoRL 2026</span>
         </li>
       </ul>
     </div>
